@@ -1,4 +1,4 @@
-﻿# Spring Boot with Azure Active Directory
+﻿## Spring Boot with Azure Active Directory
  
 This project implements Azure AD authentication in a Spring Boot app. Main steps:
 
