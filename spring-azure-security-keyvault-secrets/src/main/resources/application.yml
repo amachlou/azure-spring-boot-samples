@@ -1,0 +1,29 @@
+server:
+  port: 8888
+
+spring:
+  application: 123
+#azure:
+#  keyvault:
+#    vault-url:
+#    tenant-id:
+#    client-id:
+#    client-secret:
+
+#spring:
+#  application:
+#    name: 'Spring azure security keyvault secrets'
+#  cloud:
+#    azure:
+#      keyvault:
+#        secret:
+#          endpoint:
+
+#      active-directory:
+#        enabled: true
+#        profile:
+#          tenant-id: tenant-ID>
+#        credential:
+#          client-id: client-ID>
+#          client-secret: client-secret>
+
