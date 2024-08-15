@@ -1,5 +1,6 @@
 package amachlou.spring_azure_security_keyvault_secrets;
 
+import amachlou.spring_azure_security_keyvault_secrets.sec.KeyVaultProperties;
 import com.azure.identity.ClientSecretCredentialBuilder;
 import com.azure.security.keyvault.secrets.SecretClient;
 import com.azure.security.keyvault.secrets.SecretClientBuilder;
