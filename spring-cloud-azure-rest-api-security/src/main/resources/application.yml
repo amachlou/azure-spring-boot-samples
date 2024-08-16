@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: spring-cloud-azure-rest-api-security
+  cloud:
+    azure:
+      active-directory:
+        enabled: true
+        credential:
+          client-id: 
+        app-id-uri: 
+
