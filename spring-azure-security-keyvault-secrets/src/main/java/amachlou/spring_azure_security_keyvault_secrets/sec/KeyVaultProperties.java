@@ -1,4 +1,4 @@
-package amachlou.spring_azure_security_keyvault_secrets;
+package amachlou.spring_azure_security_keyvault_secrets.sec;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
